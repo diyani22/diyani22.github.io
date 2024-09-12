@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resources
+permalink: /resources/
 main_nav: true
 ---
 
