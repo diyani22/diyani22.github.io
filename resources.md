@@ -6,9 +6,7 @@ main_nav: true
 ---
 
 <h1>Videos</h1>
-<p>Below you will find videos covering the content of GCSE Computer Science to help you with your revision. Check them all out on my YouTube channel! - https://www.youtube.com/@compscicorner22</p>
-
-# Video Carousel
+<p>Below you will find videos covering the content of GCSE Computer Science to help you with your revision. Check them all out on my [YouTube channel](https://www.youtube.com/@compscicorner22)!</p>
 
 <div class="carousel-container">
   <!-- Carousel wrapper holding multiple items -->
@@ -61,6 +59,51 @@ main_nav: true
     <!-- Video Slide 10 -->
     <div class="carousel-item">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/cHY696rrYbA?si=-vVEb9lWFJARg1LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 11 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/F2A1v-I-jko?si=M47ortB4p03BWIgh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 12 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/WjXhnt6T-GU?si=ndtMRqWAwkP2xmcH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 13 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/tMxoRkn7zb8?si=8Dcvki17I_JiLA7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 14 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/K9lqlNHWhaA?si=vF1Z7Gxu_77MdxTF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 15 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/MjjgFS8zwD8?si=58SMH5UDjyiAambL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 16 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/45mG3i6UpyA?si=vi8tGeyo3xWa1tvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 17 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/RVSMzSsGp_s?si=7QM4hfdcMfqJrm4O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 18 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Mo1FwusKL58?si=HXilN-6Bl60wUpKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 19 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/uNG1X6y6S5M?si=mOrNE_Z-YnzmtGPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </div>
 
