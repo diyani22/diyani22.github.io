@@ -118,21 +118,6 @@ main_nav: true
 
 <h1 id="past_papers">Past Papers</h1>
 
-<h2>GCSE</h2>
-
-<h3>OCR</h3>
-<h4>Paper 1</h4>
-<ul>
-  <li>[June 2022 Paper 1 QP](/assets/past_papers/OCR_2022_Paper_1_QP.pdf)</li>
-  <li>[June 2022 Paper 1 MS](/assets/past_papers/OCR_2022_Paper_1_MS.pdf)</li>
-  
-  <li>[June 2023 Paper 1 QP](/assets/past_papers/OCR_2023_Paper_1_QP.pdf)</li>
-  <li>[June 2023 Paper 1 MS](/assets/past_papers/OCR_2023_Paper_1_MS.pdf)</li>
-
-  <li>[June Ssmple Paper 1 QP](/assets/past_papers/OCR_Sample_Paper_1_QP.pdf)</li>
-  <li>[June Sample Paper 1 MS](https://diyani22.github.io/diyani22.github.io/assets/past_papers/OCR_Sample_Paper_1_MS.pdf)</li>
-</ul>
-
 <script>
   const wrapper = document.querySelector('.carousel-wrapper');
   const items = document.querySelectorAll('.carousel-item');
