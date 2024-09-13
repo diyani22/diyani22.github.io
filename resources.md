@@ -114,7 +114,7 @@ main_nav: true
   <button class="carousel-arrow right" onclick="nextSlide()">&#10095;</button>
 </div>
 
-<h1 id="past_papers>Past Papers</h1>
+<h1 id="past_papers">Past Papers</h1>
 
 <script>
   const wrapper = document.querySelector('.carousel-wrapper');
