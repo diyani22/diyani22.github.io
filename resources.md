@@ -13,34 +13,54 @@ main_nav: true
 <div class="carousel-container">
   <!-- Carousel wrapper holding multiple items -->
   <div class="carousel-wrapper">
-    <!-- First Video Slide -->
+    <!-- Video Slide 1 -->
     <div class="carousel-item">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/cxliGPElThw?si=eCTbAHvD4h_PPZrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/cxliGPElThw?si=Z0FCxtVOaaKsrkXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    <!-- Second Video Slide -->
+    <!-- Video Slide 2 -->
     <div class="carousel-item">
-      <iframe src="https://www.youtube.com/watch?v=BIACLUSYOu8&t=113s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/BIACLUSYOu8?si=Su3huc9_nBKD-aaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    <!-- Third Video Slide -->
+    <!-- Video Slide 3 -->
     <div class="carousel-item">
-      <iframe src="https://www.youtube.com/watch?v=q85MrldzMeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/q85MrldzMeA?si=xMH1UrhIjPpsHpry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    <!-- Fourth Video Slide -->
+    <!-- Video Slide 4 -->
     <div class="carousel-item">
-      <iframe src="https://www.youtube.com/watch?v=W_xAsLPFYwA&t=2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/W_xAsLPFYwA?si=gry3uUgtci8i6Mcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    <!-- Fifth Video Slide -->
+    <!-- Video Slide 5 -->
     <div class="carousel-item">
-      <iframe src="https://www.youtube.com/watch?v=xbFg0ewZRXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/xbFg0ewZRXo?si=z78joNUBRCB1nYF5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    <!-- Sixth Video Slide -->
+    <!-- Video Slide 6 -->
     <div class="carousel-item">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/1RxuMFGP3wc?si=UIax7C9iWPiC-gd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/1RxuMFGP3wc?si=apSb1qQFZezWiLjz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 7 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/e-iE1iB5cBc?si=ImHAoZzO8DJyplUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 8 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/sJnUoWspX48?si=jq3pIJG2uTXAm1rx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 9 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/sKPD358dIxM?si=WsL8FF2A_uRzGWMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Video Slide 10 -->
+    <div class="carousel-item">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/cHY696rrYbA?si=-vVEb9lWFJARg1LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </div>
 
@@ -54,15 +74,19 @@ main_nav: true
 <script>
   const wrapper = document.querySelector('.carousel-wrapper');
   const items = document.querySelectorAll('.carousel-item');
+  const itemsToShow = 4; // Number of items to show at a time
   let currentIndex = 0;
 
   function updateCarousel() {
-    const offset = -currentIndex * 100;
+    const offset = -currentIndex * (100 / itemsToShow);
     wrapper.style.transform = `translateX(${offset}%)`;
+    // Disable arrows if at the ends
+    document.querySelector('.carousel-arrow.left').disabled = currentIndex === 0;
+    document.querySelector('.carousel-arrow.right').disabled = currentIndex >= items.length - itemsToShow;
   }
 
   function nextSlide() {
-    if (currentIndex < items.length - 1) {
+    if (currentIndex < items.length - itemsToShow) {
       currentIndex++;
       updateCarousel();
     }
@@ -74,15 +98,18 @@ main_nav: true
       updateCarousel();
     }
   }
+
+  // Initial setup
+  updateCarousel();
 </script>
 
 <style>
   .carousel-container {
-    width: 80%;
-    max-width: 800px;
-    margin: 20px auto;
+    width: 90%;
+    max-width: 1200px;
     position: relative;
     overflow: hidden;
+    margin: auto;
   }
 
   .carousel-wrapper {
@@ -91,13 +118,14 @@ main_nav: true
   }
 
   .carousel-item {
-    min-width: 100%;
+    flex: 1 0 25%; /* Adjust percentage to show 3, 4, 5 videos at a time */
     box-sizing: border-box;
+    padding: 0 10px; /* Space between videos */
   }
 
   .carousel-item iframe {
     width: 100%;
-    height: 450px;
+    height: 250px; /* Adjust as needed */
   }
 
   .carousel-arrow {
@@ -120,5 +148,9 @@ main_nav: true
   .carousel-arrow.right {
     right: 10px;
   }
-</style>
 
+  .carousel-arrow:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+</style>
