@@ -118,7 +118,7 @@ main_nav: true
   }
 
   .carousel-item {
-    flex: 1 0 25%; /* Adjust percentage to show 3, 4, 5 videos at a time */
+    flex: 1 0 33.3%; /* Adjust percentage to show 3, 4, 5 videos at a time */
     box-sizing: border-box;
     padding: 0 10px; /* Space between videos */
   }
