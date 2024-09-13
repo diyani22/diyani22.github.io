@@ -130,7 +130,7 @@ main_nav: true
   <li>[June 2023 Paper 1 MS](/assets/past_papers/OCR_2023_Paper_1_MS.pdf)</li>
 
   <li>[June Ssmple Paper 1 QP](/assets/past_papers/OCR_Sample_Paper_1_QP.pdf)</li>
-  <li>[June Sample Paper 1 MS](/assets/past_papers/OCR_Sample_Paper_1_MS.pdf)</li>
+  <li>[June Sample Paper 1 MS](https://diyani22.github.io/diyani22.github.io/assets/past_papers/OCR_Sample_Paper_1_MS.pdf)</li>
 </ul>
 
 <script>
