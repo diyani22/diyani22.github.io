@@ -15,7 +15,7 @@ main_nav: true
   <div class="carousel-wrapper">
     <!-- First Video Slide -->
     <div class="carousel-item">
-      <iframe src="https://www.youtube.com/watch?v=cxliGPElThw&t=7s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/cxliGPElThw?si=eCTbAHvD4h_PPZrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
     <!-- Second Video Slide -->
@@ -40,7 +40,7 @@ main_nav: true
 
     <!-- Sixth Video Slide -->
     <div class="carousel-item">
-      <iframe src="https://www.youtube.com/watch?v=1RxuMFGP3wc&t=369s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/1RxuMFGP3wc?si=UIax7C9iWPiC-gd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </div>
 
