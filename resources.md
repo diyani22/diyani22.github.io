@@ -127,6 +127,7 @@ main_nav: true
       <li><h3><a href="/_papers/gcse-ocr.html">OCR</a></h3></li>
       <li><h3><a href="/_papers/gcse-aqa.md">AQA</a></h3></li>
       <a href="/gcse-aqa/">AQA GCSE Computer Science</a>
+      [Check out the AQA GCSE Computer Science page](/gcse-aqa/)
     </ul>
   </div>
   <div class="column">
