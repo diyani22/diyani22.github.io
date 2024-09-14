@@ -214,4 +214,25 @@ main_nav: true
     opacity: 0.5;
     cursor: not-allowed;
   }
+
+
+  /* CSS for two-column layout */
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.column {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+@media (max-width: 768px) {
+  .two-columns {
+    flex-direction: column; /* Stack columns vertically on small screens */
+  }
+}
+
 </style>
