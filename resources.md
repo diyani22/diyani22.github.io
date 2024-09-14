@@ -121,7 +121,18 @@ main_nav: true
 <div class="two-columns">
   <div class="column">
     <h3>GCSE</h3>
-    [OCR](/_papers/gcse-ocr)
+    <ul class="post-list">
+  {% for post in paginator.posts %}
+  <li>
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+  </li>
+  {% if forloop.last == false %}
+  <hr>
+  {% endif %}
+  {% endfor %}
+</ul>
   </div>
   <div class="column">
     <h3>A Level</h3>
