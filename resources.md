@@ -118,6 +118,20 @@ main_nav: true
 
 <h1 id="past_papers">Past Papers</h1>
 
+<div class="two-columns">
+  <div class="column">
+    ### Column 1
+    This is the content for the first column. You can still write Markdown content inside this HTML block.
+  </div>
+  <div class="column">
+    ### Column 2
+    This is the content for the second column. Markdown syntax still works here too.
+  </div>
+</div>
+
+
+
+
 <script>
   const wrapper = document.querySelector('.carousel-wrapper');
   const items = document.querySelectorAll('.carousel-item');
