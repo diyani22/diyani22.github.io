@@ -121,7 +121,7 @@ main_nav: true
 <div class="two-columns">
   <div class="column">
     <h3>GCSE</h3>
-    [OCR](/_papers/gcse-ocr.md)
+    [OCR](/_papers/gcse-ocr.html)
   </div>
   <div class="column">
     <h3>A Level</h3>
