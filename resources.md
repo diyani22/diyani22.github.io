@@ -125,28 +125,13 @@ main_nav: true
     <h2>GCSE</h2>
     <ul>
       <li><h3><a href="/_papers/gcse-ocr.html">OCR</a></h3></li>
-      <li><h3><a href="/_papers/gcse-aqa.md">AQA</a></h3></li>
+      <li><h3><a href="/_papers/gcse-aqa.html">AQA</a></h3></li>
     </ul>
   </div>
   <div class="column">
     <h2>A Level</h2>
   </div>
 </div>
-
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
-
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
-
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[OCR][ocr]
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
-[ocr]: /_papers/gcse-aqa.md
 
 
 <script>
