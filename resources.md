@@ -118,16 +118,18 @@ main_nav: true
 
 <h1 id="past_papers">Past Papers</h1>
 
+<p>Below find past papers, markschemes and model solutions.</p>
+
 <div class="two-columns">
   <div class="column">
-    <h3>GCSE</h3>
+    <h2>GCSE</h2>
     <ul>
-      <li><h2><a href="/_papers/gcse-ocr.html">OCR</a></h2></li>
-      <li><h2><a href="/_papers/gcse-aqa.md">AQA</a></h2></li>
+      <li><h3><a href="/_papers/gcse-ocr.html">OCR</a></h3></li>
+      <li><h3><a href="/_papers/gcse-aqa.md">AQA</a></h3></li>
     </ul>
   </div>
   <div class="column">
-    <h3>A Level</h3>
+    <h2>A Level</h2>
   </div>
 </div>
 
