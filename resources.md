@@ -121,8 +121,10 @@ main_nav: true
 <div class="two-columns">
   <div class="column">
     <h3>GCSE</h3>
-    <a href="/_papers/gcse-ocr.html">OCR</a>
-    <a href="/_papers/gcse-aqa.md">AQA</a>
+    <ul>
+      <li><h2><a href="/_papers/gcse-ocr.html">OCR</a></h2></li>
+      <li><h2><a href="/_papers/gcse-aqa.md">AQA</a></h2></li>
+    </ul>
   </div>
   <div class="column">
     <h3>A Level</h3>
