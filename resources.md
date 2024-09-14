@@ -122,17 +122,17 @@ main_nav: true
   <div class="column">
     <h3>GCSE</h3>
     <ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
-  {% endif %}
-  {% endfor %}
-</ul>
+      {% for post in paginator.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+      {% if forloop.last == false %}
+      <hr>
+      {% endif %}
+      {% endfor %}
+    </ul>
   </div>
   <div class="column">
     <h3>A Level</h3>
