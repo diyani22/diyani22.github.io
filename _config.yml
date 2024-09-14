@@ -36,6 +36,10 @@ pagination:
   permalink: "/page/:num/"
   sort_reverse: true
 
+#process files in _papers directory
+include:
+  - _papers
+
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
   enabled:
