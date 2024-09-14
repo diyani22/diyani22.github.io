@@ -120,12 +120,10 @@ main_nav: true
 
 <div class="two-columns">
   <div class="column">
-    ### Column 1
-    This is the content for the first column. You can still write Markdown content inside this HTML block.
+    <h3>GCSE</h3>
   </div>
   <div class="column">
-    ### Column 2
-    This is the content for the second column. Markdown syntax still works here too.
+    <h3>A Level</h3>
   </div>
 </div>
 
