@@ -22,6 +22,29 @@ layout: default
     line-height: 1.8;  /* Improve readability by increasing line height */
     margin-bottom: 1.5rem; /* Add space between paragraphs */
 }
+
+/* Container for the videos */
+.video-container {
+    display: flex;  /* Use flexbox to align items in a row */
+    justify-content: space-between; /* Space out the videos evenly */
+    gap: 1rem;  /* Adds space between each video */
+    flex-wrap: wrap; /* Wrap the videos to the next line on smaller screens */
+    margin: 2rem 0; /* Add margin to space the videos from other elements */
+}
+
+/* Video wrapper for responsiveness */
+.video {
+    flex: 1 1 30%;  /* Make each video take up 30% of the container width */
+    max-width: 350px; /* Ensure videos don't get too large */
+    min-width: 250px; /* Ensure videos don't get too small on narrow screens */
+}
+
+/* Ensure the iframe is responsive */
+iframe {
+    width: 100%;
+    height: auto; /* Make the iframe maintain its aspect ratio */
+}
+
 </style>
 
 
@@ -52,15 +75,20 @@ layout: default
 
  	<hr>
 	<h2>YouTube Videos</h2>
-	<div class="video-gallery">
-		<ul>
-			<li><a href="https://www.youtube.com/watch?v=W_xAsLPFYwA&t=1s" target="_blank">Primary & Secondary Storage</a></li>
-			<li><a href="https://www.youtube.com/watch?v=1RxuMFGP3wc" target="_blank">Data Storage, Units and Characters</a></li>
-			<li><a href="https://www.youtube.com/watch?v=BIACLUSYOu8" target="_blank">The CPU</a></li>
-		</ul>
-		
-		<a href="https://www.youtube.com/@compscicorner22" target="_blank">Subscribe to CompSci Corner on YouTube</a>
+	<p>Check out some of our videos to start learning! Dive into essential GCSE Computer Science topics and more on our <a href="https://www.youtube.com/@compscicorner22" target="_blank">YouTube Channel</a>. Don’t forget to subscribe for regular updates!</p>
+
+	<div class="video-container">
+    <div class="video">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/W_xAsLPFYwA?si=K3oJZyrbu8n3mQOe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div class="video">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1RxuMFGP3wc?si=azqh-x4OV7Jq81hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div class="video">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/BIACLUSYOu8?si=qnIcj2Dm7I7ehzMS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
 </div>
+
 	
 	<hr>
 
