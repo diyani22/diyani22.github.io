@@ -37,13 +37,22 @@ layout: default
     flex: 1 1 30%;  /* Make each video take up 30% of the container width */
     max-width: 350px; /* Ensure videos don't get too large */
     min-width: 250px; /* Ensure videos don't get too small on narrow screens */
+    position: relative; /* Allows absolute positioning of iframe */
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0; /* Set height to 0 to allow padding-bottom to control the aspect ratio */
+    overflow: hidden; /* Hide overflow for proper scaling */
 }
 
-/* Ensure the iframe is responsive */
-iframe {
+/* Responsive iframe */
+.video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    height: auto; /* Make the iframe maintain its aspect ratio */
+    height: 100%;
+    border: 0; /* Remove iframe border */
 }
+
 
 </style>
 
