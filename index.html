@@ -1,6 +1,43 @@
 ---
 layout: default
 ---
+
+---
+layout: default
+title: "Your Page Title"
+---
+
+<style>
+/* Apply padding to the content container */
+.content {
+    padding: 2rem;  /* Adds padding to make the content breathe */
+    margin: 0 auto; /* Centers the content */
+    max-width: 1200px; /* Limits the width to avoid it stretching too much */
+}
+
+/* Header and main sections spacing */
+h1, h2, h3 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    text-align: center; /* Center align headings for a cleaner look */
+}
+
+/* Paragraph styling */
+p {
+    line-height: 1.8;  /* Improve readability by increasing line height */
+    margin-bottom: 1.5rem; /* Add space between paragraphs */
+}
+
+/* Improve button/link spacing */
+a {
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    text-decoration: none; /* Removes underline from links */
+    display: inline-block; /* Makes links behave like buttons */
+}
+</style>
+
+
 <div class="home">
 
 	<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
@@ -12,27 +49,28 @@ layout: default
   	</div>
 	</div>
 
+<div class="content">
 	<h2>Welcine to CompSci Corner!</h2>
 	<p>Whether you're here to master computer science concepts, prepare for exams, or get personalised tutoring, we've got you covered.</p>
 
-<div style="text-align: center;">	
-   [Watch Tutorials](#featured-youtube-content) | [Browse Resources](#revision-resources) | [Book Tutoring](#tutoring-services)
- </div>
+	<div style="text-align: center;">	
+   	[Watch Tutorials](#featured-youtube-content) | [Browse Resources](#revision-resources) | [Book Tutoring](#tutoring-services)
+ 	</div>
 
- <hr>
+ 	<hr>
 	
- <h2>About CompSci Corner</h2>
- <p>CompsciCorner is dedicated to helping students excel in GCSE Computer Science. Founded by an experienced computer science tutor, our goal is to make learning accessible and enjoyable. From free online tutorials to comprehensive resources, we’re here to support your journey.</p>
- <p>Want to know more about us? [Read Our Story](about.md).</p>
+ 	<h2>About CompSci Corner</h2>
+ 	<p>CompsciCorner is dedicated to helping students excel in GCSE Computer Science. Founded by an experienced computer science tutor, our goal is to make learning accessible and enjoyable. From free online tutorials to comprehensive resources, we’re here to support your journey.</p>
+	<p>Want to know more about us? [Read Our Story](about.md).</p>
 
- <hr>
+ 	<hr>
 
- <h2>Youtube Videos</h2>
- <p>Take advantage of our free revision materials to master each topic. Whether you need help with **Programming**, **Data Representation**, or **Computer Architecture**, we've got resources to support your studies.</p>
+ 	<h2>Youtube Videos</h2>
+ 	<p>Take advantage of our free revision materials to master each topic. Whether you need help with **Programming**, **Data Representation**, or **Computer Architecture**, we've got resources to support your studies.</p>
 
- **[Programming Cheat Sheet](resources/programming-cheat-sheet.md)**
- **[Data Representation Guide](resources/data-representation-guide.md)**
- **[Systems Architecture Overview](resources/systems-architecture.md)**
+ 	**[Programming Cheat Sheet](resources/programming-cheat-sheet.md)**
+ 	**[Data Representation Guide](resources/data-representation-guide.md)**
+ 	**[Systems Architecture Overview](resources/systems-architecture.md)**
 
  	[Browse All Revision Resources](resources.md)
 	
@@ -42,6 +80,7 @@ layout: default
 	<p>Looking for personalized help? Our tutoring sessions are tailored to your needs, whether you're a beginner or looking to improve specific skills. Get one-on-one sessions or join a group class — the choice is yours!</p>
 
 	<p>Ready to improve? [Book a Tutoring Session](/tuition/)</p>
+</div>
 	
 
 </div>
