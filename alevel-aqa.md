@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "OCR"
+title: "AQA"
 permalink: /alevel-ocr/
 ---
