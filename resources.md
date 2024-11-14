@@ -23,7 +23,7 @@ main_nav: true
 </div>
 
 <hr>
-<h1>Resources</h1>
+<h1>Resources (OCR)</h1>
 <p>Below find revision notes and practice questions for every topic.</p>
 <div class="two-columns">
   <div class="column">
