@@ -7,7 +7,7 @@ title: "OCR"
   <div class="column">
     <h2>Paper 1</h2>
     <ul>
-      <li><a href="2023%20Paper%201%20QP.pdf" target="_blank">2023 Question Paper</a></li>
+      <li><a href="_papers/2023%20Paper%201%20QP.pdf" target="_blank">2023 Question Paper</a></li>
       <li><a href="">2023 Mark Scheme</a></li>
       <li><a href="">2023 Model Solutions</a></li>
       <p> </p>
