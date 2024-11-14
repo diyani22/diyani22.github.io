@@ -19,8 +19,10 @@ main_nav: true
   </div>
   <div class="column">
     <h2>A Level</h2>
+    <ul>
       <li><h3><a href="/alevel-ocr">OCR</a></h3></li>
       <li><h3><a href="/alevel-aqa">AQA</a></h3></li>
+    </ul>
   </div>
 </div>
 
