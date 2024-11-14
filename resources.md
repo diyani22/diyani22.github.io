@@ -14,7 +14,7 @@ main_nav: true
     <h2>GCSE</h2>
     <ul>
       <li><h3><a href="/gcse-ocr.md">OCR</a></h3></li>
-      <li><h3><a href="/_papers/gcse-aqa.html">AQA</a></h3></li>
+      <li><h3><a href="/gcse-aqa.md">AQA</a></h3></li>
     </ul>
   </div>
   <div class="column">
