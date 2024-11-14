@@ -5,6 +5,29 @@ permalink: /resources/
 main_nav: true
 ---
 
+<h1 id="past_papers">Past Papers</h1>
+
+<p>Below find past papers, markschemes and model solutions.</p>
+
+<div class="two-columns">
+  <div class="column">
+    <h2>GCSE</h2>
+    <ul>
+      <li><h3><a href="/_papers/gcse-ocr.html">OCR</a></h3></li>
+      <li><h3><a href="/_papers/gcse-aqa.html">AQA</a></h3></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>A Level</h2>
+  </div>
+</div>
+
+<hr>
+<h1>Resources</h1>
+
+ 
+<hr>
+
 <h1>Videos</h1>
 <p>Below you will find videos covering the content of GCSE Computer Science to help you with your revision. Check them all out on my <a href="https://www.youtube.com/@compscicorner22" target="_blank">YouTube Channel</a>.</p>
 
@@ -114,24 +137,6 @@ main_nav: true
   <button class="carousel-arrow right" onclick="nextSlide()">&#10095;</button>
 </div>
 
-<hr>
-
-<h1 id="past_papers">Past Papers</h1>
-
-<p>Below find past papers, markschemes and model solutions.</p>
-
-<div class="two-columns">
-  <div class="column">
-    <h2>GCSE</h2>
-    <ul>
-      <li><h3><a href="/_papers/gcse-ocr.html">OCR</a></h3></li>
-      <li><h3><a href="/_papers/gcse-aqa.html">AQA</a></h3></li>
-    </ul>
-  </div>
-  <div class="column">
-    <h2>A Level</h2>
-  </div>
-</div>
 
 
 <script>
