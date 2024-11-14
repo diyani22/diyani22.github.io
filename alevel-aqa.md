@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "AQA"
-permalink: /alevel-ocr/
+permalink: /alevel-aqa/
 ---
