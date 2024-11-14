@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "OCR"
+permalink: /gcse-ocr/
 ---
 
 <div class="two-columns">
