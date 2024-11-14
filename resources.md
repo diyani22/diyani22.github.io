@@ -24,7 +24,23 @@ main_nav: true
 
 <hr>
 <h1>Resources</h1>
-
+<p>Below find revision notes and practice questions for every topic.</p>
+<div class="two-columns">
+  <div class="column">
+    <h2>GCSE</h2>
+    <ul>
+      <li><h3><a href="">Topic 1</a></h3></li>
+      <li><h3><a href="">Topic 2</a></h3></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>A Level</h2>
+    <ul>
+      <li><h3><a href="">Topic 1</a></h3></li>
+      <li><h3><a href="">Topic 2</a></h3></li>
+    </ul>
+  </div>
+</div>
  
 <hr>
 
