@@ -25,6 +25,10 @@ permalink: /alevel-ocr/
       <li><a href="/_papers/asOCR/AS%20Sample%20Paper%201%20MS.pdf" target="_blank">Sample Mark Scheme</a></li>
       <li><a href="">Sample Model Solutions</a></li>
     </ul>
+
+    <p> </p>
+    <p> </p>
+    <p> </p>
     
     <h2 class="aligned-heading">Paper 2</h2>
     <ul>
@@ -44,9 +48,6 @@ permalink: /alevel-ocr/
       <li><a href="/_papers/asOCR/AS%20Sample%20Paper%202%20MS.pdf" target="_blank">Sample Mark Scheme</a></li>
       <li><a href="">Sample Model Solutions</a></li>
     </ul>
-    <p> </p>
-    <p> </p>
-    <p> </p>
   </div>
 
   <div class="column">
