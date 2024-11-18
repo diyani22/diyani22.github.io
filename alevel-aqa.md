@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "AQA"
+title: "AQA A Level Computer Science"
 permalink: /alevel-aqa/
 ---
