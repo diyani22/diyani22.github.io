@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "OCR"
+title: "OCR GCSE Computer Science"
 permalink: /gcse-ocr/
 ---
 
