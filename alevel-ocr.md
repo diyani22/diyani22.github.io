@@ -48,7 +48,7 @@ permalink: /alevel-ocr/
 
   
   <div class="column">
-    <h1>AS</h1>
+    <h1>A Level</h1>
     <h2>Paper 1</h2>
     <ul>
       <li><a href="" target="_blank">2023 Question Paper</a></li>
