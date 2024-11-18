@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AQA"
+title: "AQA GCSE Computer Science"
 permalink: /gcse-aqa/
 ---
 
