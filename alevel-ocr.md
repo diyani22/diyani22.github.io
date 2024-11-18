@@ -83,19 +83,26 @@ permalink: /alevel-ocr/
 </div>
 
 <style>
-  .two-columns {
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-  }
+  .column h2 {
+  margin-top: 30px; /* Adjust to create consistent spacing */
+  margin-bottom: 10px; /* For uniform spacing below the heading */
+}
 
-  .column {
-    flex: 1;
-    padding: 10px;
-  }
+.column ul {
+  margin-top: 0; /* Remove any additional margin affecting alignment */
+  padding-left: 20px; /* Ensure lists are aligned properly */
+}
 
-  .aligned-heading {
-    margin-top: 30px;
-  }
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* Ensures top alignment of columns */
+  gap: 20px;
+}
+
+  .column:nth-child(1) .aligned-heading {
+  margin-top: 50px; /* Adjust specifically for AS Paper 2 */
+}
+
 </style>
 
