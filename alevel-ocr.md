@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "OCR"
+title: "OCR A Level Computer Science"
 permalink: /alevel-ocr/
 ---
 
