@@ -80,3 +80,39 @@ permalink: /alevel-ocr/
     </ul>
   </div>
 </div>
+
+<style>
+  /* CSS for two-column layout */
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  border-left: none; /* Removes any border outlines */
+  border-right: none; /* Removes any border outlines */
+  align-items: start;
+  padding: 0;
+  margin: 0;
+}
+
+.column {
+  flex: 1;
+  padding: 10px;
+  /* Add a border between columns (for the right side of the first column) */
+}
+
+.column:not(:last-child) {
+  border-right: 1px solid #ddd; /* Add a line between the columns */
+}
+
+@media (max-width: 768px) {
+  .two-columns {
+    flex-direction: column;
+  }
+  .column {
+    border-right: none; /* Remove line between columns on small screens */
+  }
+}
+
+}
+
+</style>
