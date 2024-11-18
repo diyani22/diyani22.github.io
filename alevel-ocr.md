@@ -12,12 +12,15 @@ permalink: /alevel-ocr/
       <li><a href="/_papers/asOCR/AS%202023%20Paper%201%20QP.pdf" target="_blank">2023 Question Paper</a></li>
       <li><a href="/_papers/asOCR/AS%202023%20Paper%201%20MS.pdf" target="_blank">2023 Mark Scheme</a></li>
       <li><a href="">2023 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/asOCR/AS%202022%20Paper%201%20QP.pdf" target="_blank">2022 Question Paper</a></li>
       <li><a href="/_papers/asOCR/AS%202022%20Paper%201%20MS.pdf" target="_blank">2022 Mark Scheme</a></li>
       <li><a href="">2022 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/asOCR/AS%202020%20Paper%201%20QP.pdf" target="_blank">2020 Question Paper</a></li>
       <li><a href="/_papers/asOCR/AS%202020%20Paper%201%20MS.pdf" target="_blank">2020 Mark Scheme</a></li>
       <li><a href="">2020 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/asOCR/AS%20Sample%20Paper%201%20QP.pdf" target="_blank">Sample Question Paper</a></li>
       <li><a href="/_papers/asOCR/AS%20Sample%20Paper%201%20MS.pdf" target="_blank">Sample Mark Scheme</a></li>
       <li><a href="">Sample Model Solutions</a></li>
@@ -28,16 +31,22 @@ permalink: /alevel-ocr/
       <li><a href="/_papers/asOCR/AS%202023%20Paper%202%20QP.pdf" target="_blank">2023 Question Paper</a></li>
       <li><a href="/_papers/asOCR/AS%202023%20Paper%202%20MS.pdf" target="_blank">2023 Mark Scheme</a></li>
       <li><a href="">2023 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/asOCR/AS%202022%20Paper%202%20QP.pdf" target="_blank">2022 Question Paper</a></li>
       <li><a href="/_papers/asOCR/AS%202022%20Paper%202%20MS.pdf" target="_blank">2022 Mark Scheme</a></li>
       <li><a href="">2022 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/asOCR/AS%202020%20Paper%202%20QP.pdf" target="_blank">2020 Question Paper</a></li>
       <li><a href="/_papers/asOCR/AS%202020%20Paper%202%20MS.pdf" target="_blank">2020 Mark Scheme</a></li>
       <li><a href="">2020 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/asOCR/AS%20Sample%20Paper%202%20QP.pdf" target="_blank">Sample Question Paper</a></li>
       <li><a href="/_papers/asOCR/AS%20Sample%20Paper%202%20MS.pdf" target="_blank">Sample Mark Scheme</a></li>
       <li><a href="">Sample Model Solutions</a></li>
     </ul>
+    <p> </p>
+    <p> </p>
+    <p> </p>
   </div>
 
   <div class="column">
@@ -47,15 +56,19 @@ permalink: /alevel-ocr/
       <li><a href="/_papers/aOCR/A%202023%20Paper%201%20QP.pdf" target="_blank">2023 Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%202023%20Paper%201%20MS.pdf" target="_blank">2023 Mark Scheme</a></li>
       <li><a href="">2023 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/aOCR/A%202022%20Paper%201%20QP.pdf" target="_blank">2022 Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%202022%20Paper%201%20MS.pdf" target="_blank">2022 Mark Scheme</a></li>
       <li><a href="">2022 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/aOCR/A%202021%20Paper%201%20QP.pdf" target="_blank">2021 Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%202021%20Paper%201%20MS.pdf" target="_blank">2021 Mark Scheme</a></li>
       <li><a href="">2021 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/aOCR/A%202020%20Paper%201%20QP.pdf" target="_blank">2020 Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%202020%20Paper%201%20MS.pdf" target="_blank">2020 Mark Scheme</a></li>
       <li><a href="">2020 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/aOCR/A%20Sample%20Paper%201%20QP.pdf" target="_blank">Sample Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%20Sample%20Paper%201%20MS.pdf" target="_blank">Sample Mark Scheme</a></li>
       <li><a href="">Sample Model Solutions</a></li>
@@ -66,15 +79,19 @@ permalink: /alevel-ocr/
       <li><a href="/_papers/aOCR/A%202023%20Paper%202%20QP.pdf" target="_blank">2023 Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%202023%20Paper%202%20MS.pdf" target="_blank">2023 Mark Scheme</a></li>
       <li><a href="">2023 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/aOCR/A%202022%20Paper%202%20QP.pdf" target="_blank">2022 Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%202022%20Paper%202%20MS.pdf" target="_blank">2022 Mark Scheme</a></li>
       <li><a href="">2022 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/aOCR/A%202021%20Paper%202%20QP.pdf" target="_blank">2021 Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%202021%20Paper%202%20MS.pdf" target="_blank">2021 Mark Scheme</a></li>
       <li><a href="">2021 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/aOCR/A%202020%20Paper%202%20QP.pdf" target="_blank">2020 Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%202020%20Paper%202%20MS.pdf" target="_blank">2020 Mark Scheme</a></li>
       <li><a href="">2020 Model Solutions</a></li>
+      <p> </p>
       <li><a href="/_papers/aOCR/A%20Sample%20Paper%202%20QP.pdf" target="_blank">Sample Question Paper</a></li>
       <li><a href="/_papers/aOCR/A%20Sample%20Paper%202%20MS.pdf" target="_blank">Sample Mark Scheme</a></li>
       <li><a href="">Sample Model Solutions</a></li>
@@ -100,9 +117,6 @@ permalink: /alevel-ocr/
   gap: 20px;
 }
 
-  .column:nth-child(1) .aligned-heading {
-  margin-top: 50px; /* Adjust specifically for AS Paper 2 */
-}
 
 </style>
 
