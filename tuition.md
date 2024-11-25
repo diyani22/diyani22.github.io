@@ -30,10 +30,10 @@ main_nav: true
     <th>Level</th><th>Price</th>
   </tr>
   <tr>
-    <td>GCSE Computer Science</td><td>£20/hour</td>
+    <td>GCSE Computer Science</td><td>£25/hour</td>
   </tr>
   <tr class="even">
-    <td>A Level Computer Science</td><td>£30/hour</td>
+    <td>A Level Computer Science</td><td>£35/hour</td>
   </tr>
 </table>
 
