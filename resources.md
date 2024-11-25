@@ -33,15 +33,15 @@ main_nav: true
   <div class="column">
     <h2>GCSE</h2>
     <ul>
-      <li><h3><a href="">Topic 1</a></h3></li>
-      <li><h3><a href="">Topic 2</a></h3></li>
+      <li><h3><a href="">Paper 1</a></h3></li>
+      <li><h3><a href="">Paper 2</a></h3></li>
     </ul>
   </div>
   <div class="column">
     <h2>A Level</h2>
     <ul>
-      <li><h3><a href="">Topic 1</a></h3></li>
-      <li><h3><a href="">Topic 2</a></h3></li>
+      <li><h3><a href="">Paper 1</a></h3></li>
+      <li><h3><a href="">Paper 2</a></h3></li>
     </ul>
   </div>
 </div>
